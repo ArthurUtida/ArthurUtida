@@ -24,25 +24,27 @@ class ArthurUtida:
 
 ## O que eu faço
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**⚙ Automação**
-Automatizo tarefas e processos repetitivos, reduzindo trabalho manual e aumentando produtividade.
-
-**🔗 Integrações**
-Conecto APIs, plataformas e sistemas diferentes para que as informações circulem sem intervenção manual.
-
+<td align="center" width="25%">
+<img width="42" src="https://img.icons8.com/ios-filled/50/8B5CF6/settings--v1.png"/><br/><br/>
+<b>Automação</b><br/>
+<sub>Tarefas repetitivas viram fluxos automáticos.</sub>
 </td>
-<td width="50%" valign="top">
-
-**🌐 Sistemas Web**
-Desenvolvo aplicações para controle, gestão e operação de processos internos.
-
-**🧩 Soluções sob medida**
-Construo ferramentas específicas para resolver problemas reais de negócio.
-
+<td align="center" width="25%">
+<img width="42" src="https://img.icons8.com/ios-filled/50/8B5CF6/api-settings.png"/><br/><br/>
+<b>Integrações</b><br/>
+<sub>Sistemas diferentes trocando dados sozinhos.</sub>
+</td>
+<td align="center" width="25%">
+<img width="42" src="https://img.icons8.com/ios-filled/50/8B5CF6/domain.png"/><br/><br/>
+<b>Sistemas Web</b><br/>
+<sub>Aplicações para gestão e operação de processos.</sub>
+</td>
+<td align="center" width="25%">
+<img width="42" src="https://img.icons8.com/ios-filled/50/8B5CF6/puzzle.png"/><br/><br/>
+<b>Soluções sob medida</b><br/>
+<sub>Ferramentas feitas pro problema real do negócio.</sub>
 </td>
 </tr>
 </table>
