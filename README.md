@@ -1,116 +1,85 @@
 <div align="center">
 
-# Olá, eu sou Arthur Utida 👋
-### 💻 Desenvolvedor de Sistemas · Automação · Integrações
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:FF00E5,100:00FF85&height=200&section=header&text=Arthur%20Utida&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Sistemas%20·%20Automação%20·%20Integrações&descAlignY=55&descSize=20" width="100%"/>
 
-**Transformo processos manuais em sistemas inteligentes.**
+<a href="https://github.com/ArthurUtida">
+<img src="https://readme-typing-svg.demolab.com/?lines=Transformo+processos+manuais+em+sistemas+inteligentes;Automação+·+Integrações+·+Sistemas+Web;Fa%C3%A7o+a+tecnologia+trabalhar+por+voc%C3%AA;&font=Fira+Code&center=true&width=600&height=45&color=00F5FF&vCenter=true&size=22&pause=1800"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArthurUtida-181717?style=for-the-badge&logo=github)](https://github.com/ArthurUtida)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<br/>
 
-</div>
+<a href="https://github.com/ArthurUtida"><img src="https://img.shields.io/badge/GitHub-ArthurUtida-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-FF00E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-Contato-00FF85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 
----
-
-## ⚡ Sobre mim
-
-Sou desenvolvedor focado em **automação de processos, desenvolvimento de sistemas e integração entre plataformas**.
-
-Gosto de pegar processos manuais, cheios de ferramentas soltas e tarefas repetitivas, e transformá-los em **fluxos automatizados, rápidos e escaláveis**.
-
-> Meu objetivo é simples: **fazer a tecnologia trabalhar por você.**
-
----
-
-## 🚀 O que eu faço
-
-| Área | Descrição |
-|---|---|
-| ⚙️ **Automação** | Automatizo tarefas e processos repetitivos para reduzir trabalho manual e aumentar produtividade. |
-| 🔗 **Integrações** | Conecto APIs, plataformas e sistemas diferentes para fazer as informações circularem automaticamente. |
-| 🌐 **Sistemas Web** | Desenvolvo aplicações web para controle, gestão e operação de processos. |
-| 🧠 **Soluções Personalizadas** | Crio ferramentas sob medida para resolver problemas específicos de negócios. |
-
----
-
-## 🛠️ Tecnologias
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Ferramentas**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📌 Projetos em destaque
-
-<!--
-Dica: substitua pelos seus repositórios reais. Esses cards puxam
-automaticamente estrelas, linguagem principal e descrição do repo.
--->
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=ArthurUtida&repo=nome-do-repositorio-1&theme=github_dark&hide_border=true)](https://github.com/ArthurUtida/nome-do-repositorio-1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=ArthurUtida&repo=nome-do-repositorio-2&theme=github_dark&hide_border=true)](https://github.com/ArthurUtida/nome-do-repositorio-2)
-
----
-
-## 🔥 O que me interessa
-
-- 🤖 Automação inteligente de processos
-- 🔌 APIs e integrações entre sistemas
-- 🏗️ Arquitetura e design de sistemas
-- ⚡ Otimização de processos
-- 📊 Sistemas de gestão para empresas
-- ☁️ Servidores, deploy e infraestrutura
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurUtida&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurUtida&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurUtida&theme=github-dark-blue&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E5,100:00FF85&height=4&width=1000" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 💡 Como eu penso
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img width="45" src="https://cdn-icons-png.flaticon.com/512/9068/9068699.png"/><br/>
+<b>Automação</b>
+</td>
+<td align="center" width="25%">
+<img width="45" src="https://cdn-icons-png.flaticon.com/512/8637/8637710.png"/><br/>
+<b>Integrações</b>
+</td>
+<td align="center" width="25%">
+<img width="45" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"/><br/>
+<b>Sistemas Web</b>
+</td>
+<td align="center" width="25%">
+<img width="45" src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png"/><br/>
+<b>Soluções sob medida</b>
+</td>
+</tr>
+</table>
 
-> Se uma tarefa precisa ser repetida várias vezes, provavelmente pode ser automatizada.
->
-> Se dois sistemas precisam trocar informações, provavelmente existe uma forma melhor de integrá-los.
->
-> Se um processo é complicado demais, existe espaço para construir uma solução melhor.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF85,50:FF00E5,100:00F5FF&height=4&width=1000" width="100%"/>
 
----
+<div align="center">
+<br/>
 
-## 🚧 Construindo agora
+<img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,flask,git,github,linux&theme=dark&perline=9"/>
 
-Atualmente estou focado em criar **sistemas próprios, automações e integrações** capazes de transformar operações complexas em processos simples e automatizados.
+<br/><br/>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00E5,100:00FF85&height=4&width=1000" width="100%"/>
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurUtida&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurUtida&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurUtida&theme=radical&hide_border=true&background=0d1117&ring=FF00E5&fire=00F5FF&currStreakLabel=00FF85"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArthurUtida&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:00FF85,100:00F5FF&height=4&width=1000" width="100%"/>
+
+<div align="center">
+<br/>
+
+<!-- Snake contribution animation — veja instruções no final para ativar -->
+<img src="https://raw.githubusercontent.com/ArthurUtida/ArthurUtida/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/><br/>
+</div>
 
 <div align="center">
 
-### 🚀 Construindo soluções. Automatizando processos. Evoluindo sistemas.
-
-**Arthur Utida**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF85,50:FF00E5,100:00F5FF&height=120&section=footer" width="100%"/>
 
 </div>
