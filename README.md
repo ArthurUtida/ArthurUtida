@@ -1,6 +1,6 @@
 <div align="center">
-  
-# Arthur Utida
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:2D1B4E,100:0D1117&height=180&text=Arthur%20Utida&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=desenvolvedor.sistemas()+%3E%3E+automa%C3%A7%C3%A3o+%2B+integra%C3%A7%C3%B5es;transformando+processos+manuais+em+sistemas" alt="typing"/>
 
