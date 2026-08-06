@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Arthur Utida
 
-<!--
-**ArthurUtida/ArthurUtida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor de Sistemas | Automação | Integrações
 
-Here are some ideas to get you started:
+Desenvolvo sistemas, automações e integrações para transformar processos manuais e complexos em soluções simples, rápidas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é criar ferramentas que **resolvam problemas reais e economizem tempo**.
+
+---
+
+## 🚀 O que eu desenvolvo
+
+- ⚙️ Automação de processos
+- 🔗 Integrações entre APIs e sistemas
+- 🌐 Aplicações web
+- 🤖 Sistemas para automação de tarefas
+- 📊 Ferramentas para gestão e operação
+- 🖥️ Soluções personalizadas para empresas
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens e desenvolvimento**
+
+`Python` `JavaScript` `HTML` `CSS` `SQL`
+
+**Frameworks e ferramentas**
+
+`Flask` `Git` `GitHub` `REST APIs` `Linux`
+
+---
+
+## 📌 Atualmente
+
+Construindo soluções próprias para automatizar processos, integrar sistemas e transformar operações manuais em fluxos automatizados.
+
+---
+
+### ⚡ "Automatizar é transformar tempo perdido em produtividade."
