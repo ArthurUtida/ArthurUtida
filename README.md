@@ -7,8 +7,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArthurUtida-F5A623?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ArthurUtida)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-F5A623?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](#)
-[![Email](https://img.shields.io/badge/Email-Contato-F5A623?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-F5A623?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/arthur-utida)
+[![Email](https://img.shields.io/badge/Email-Contato-F5A623?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:arthurutida2023@gmail.com)
 
 </div>
 
@@ -95,12 +95,23 @@ Sistemas próprios, automações e integrações capazes de transformar operaç�
 
 <img src="assets/divider.svg" width="100%"/>
 
+## Projetos
+
+> Código em repositórios privados (uso em produção); aqui vai o resumo do que cada um resolve.
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **Pipeline de leads** | Recebe webhooks, higieniza contra blocklists e dispara para discador/RCS automaticamente | Python · PostgreSQL · PM2 |
+| **Plataforma de operação** | Painel web com disparos RCS, callbacks e dashboard em React | Flask · React · shadcn/ui |
+| **Gestão de pedidos** | Captura e classifica pedidos de marketplaces (Shopee RPA + Mercado Livre API) | Python · Selenium |
+| **Gerador de moldes** | Gera moldes de adesivos personalizados a partir dos pedidos, com saída em PDF | Python |
+| **RPA de indicações** | Automação desktop com interface gráfica | Python · PySide6 |
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurUtida&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurUtida&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=c9d1d9" height="160"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurUtida&theme=dark&hide_border=true&background=0d1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" height="150"/>
 
